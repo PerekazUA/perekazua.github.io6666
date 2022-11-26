@@ -1,10 +1,4 @@
 
-# 
-#
-#
-# 
-# 
-
 
 <!doctype html>
 <html lang="en">
@@ -132,10 +126,10 @@
 	 <p class="fs-5 text-muted">НАЛИЧНЫМИ МОЖНО 	</p> 
 	  <p class="fs-5 text-muted"> ОПЛАТИТЬ ЧЕРЕЗ ТЕРМИНАЛЫ</p>
 			<div class="nav">
-			<a href="https://crb-dnr.ru/offices?cqattempt=1"<"display-8 fw-normal>ГДЕ НАЙТИ ТЕРМИНАЛ ЦРБ ДНР</a>
+			<a href=" https://crb-dnr.ru/offices?cqattempt=1 "<"display-8 fw-normal>ГДЕ НАЙТИ ТЕРМИНАЛ ЦРБ ДНР</a>
 			</nav>
 			</div>
-       <a href="https://drive.google.com/file/d/1ABOfJkzS1zfiErCa_jnfKIixygJtDW_O/view?usp=drivesdk"<"display-8 fw-normal>КАК ВЫГЛЕДИТ ТЕРМИНАЛ ЦПБ ДНР</a>
+       <a href=" https://drive.google.com/file/d/1ABOfJkzS1zfiErCa_jnfKIixygJtDW_O/view?usp=drivesdk "<"display-8 fw-normal>КАК ВЫГЛЕДИТ ТЕРМИНАЛ ЦПБ ДНР</a>
        
 
   <
